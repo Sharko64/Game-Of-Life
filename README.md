@@ -1,3 +1,3 @@
 # Game of Life
 
-Shell version of the game.
+Bash script version of the game.
