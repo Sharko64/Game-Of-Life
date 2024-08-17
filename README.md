@@ -1,3 +1,3 @@
 # Game of Life
 
-Bash script version of the game.
+Conway's Game of Life written in Bash 👾🍃🧨
