@@ -1,6 +1,6 @@
 # Game of Life 👾🍃🧨
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 Conway's **Game of Life** implemented entirely in **Bash**! This command-line version of the famous zero-player game simulates cellular automaton directly in your terminal. Watch patterns emerge, evolve, and sometimes fade into oblivion—right from your shell!
 
@@ -132,7 +132,7 @@ We welcome contributions to this project! If you have ideas for improving the sc
 
 ## License ⚖️
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **GNU General Public License v3.0**. You are free to use, modify, and distribute this software, but any modifications or derivatives must also be open-sourced under the same license. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements 🙏
 
